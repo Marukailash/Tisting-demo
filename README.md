@@ -1,2 +1,2 @@
 # Tisting-demo
-Tish is my frist project repository
+This is my frist project repository
